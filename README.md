@@ -1,13 +1,13 @@
 # Hi there, I'm Frank-El 👋
 
-🎓 **Freshman Information Systems Student** at the **University of Mines and Technology (UMaT)**  
+🎓 **Freshman Information Systems and Technology Student** at the **University of Mines and Technology (UMaT)**  
 💡 Focused on software development fundamentals, cloud systems, and core computing technologies.
 
 ---
 
 ### 📌 About Me
 
-- 🏫 **Academics:** B.Sc. Information Systems at UMaT (Tarkwa, Ghana).
+- 🏫 **Academics:** B.Sc. Information Systems and Technology at UMaT (Tarkwa, Ghana).
 - 🌱 **Current Semester Focus:** Introduction to Computer Programming, Linear Algebra, and Applied Electricity.
 - 🛠️ **Engineering Discipline:** Learning Git terminal workflows, writing clean code, and documenting technical concepts from day one.
 - 🎯 **Year 1 Target:** Build consistent daily coding habits and master foundational computing concepts.
